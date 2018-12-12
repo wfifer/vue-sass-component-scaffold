@@ -1,6 +1,6 @@
 {
   "name": "vue-sass-component-scaffold",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A basic CLI tool for scaffolding Vue.js components",
   "main": "index.js",
   "prefer-global": true,
