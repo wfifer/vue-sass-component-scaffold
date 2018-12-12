@@ -6,7 +6,7 @@ A basic CLI tool for scaffolding Vue.js components
 
 ## Usage
 
-  vuecs path/to/ComponentName
+  `vuecs path/to/ComponentName`
 
   will create the directory ComponentName containing
 
