@@ -29,7 +29,7 @@ A basic CLI tool for scaffolding Vue.js components
   ```
 
   ###### ComponentName.scss
-    ```css
+  ```css
     .component-name {
     }
   ```
